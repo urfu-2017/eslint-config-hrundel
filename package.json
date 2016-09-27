@@ -1,0 +1,20 @@
+{
+  "version": "0.0.3",
+  "name": "eslint-config-hrundel",
+  "description": "Yet another ESLint config",
+  "author": "Sergey Gogolev <gogoleff@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:urfu-2016/eslint-config-hrundel.git"
+  },
+  "files": [
+    "base.js",
+    "browser.js",
+    "es6.js",
+    "node.js"
+  ],
+  "peerDependencies": {
+    "eslint": "3.6.0"
+  }
+}
