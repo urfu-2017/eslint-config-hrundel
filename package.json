@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "1.0.0",
   "name": "eslint-config-hrundel",
   "description": "Yet another ESLint config",
   "author": "Sergey Gogolev <gogoleff@gmail.com>",
@@ -15,6 +15,6 @@
     "node.js"
   ],
   "peerDependencies": {
-    "eslint": "3.6.0"
+    "eslint": "3.7.0"
   }
 }
