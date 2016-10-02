@@ -15,6 +15,6 @@
     "node.js"
   ],
   "peerDependencies": {
-    "eslint": "3.6.0"
+    "eslint": "3.7.0"
   }
 }
